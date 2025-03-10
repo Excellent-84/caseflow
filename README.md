@@ -233,7 +233,7 @@ http://localhost:3000
 <br>
 
 <strong>Подробную версию запросов можно посмотреть по адресу:</strong>
-- Swagger: [http://localhost:8000/docs](http://localhost:3000/api-docs)
+- Swagger: [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
 
 </details>
 
